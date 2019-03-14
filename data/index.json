@@ -1,0 +1,16 @@
+[
+  {
+    "email": "iliko97@gmail.com",
+    "password": "123456",
+    "firstName": "Илья",
+    "lastName": "Кобалия",
+    "vip": false
+  },
+  {
+    "email": "iliko@gmail.com",
+    "password": "123456",
+    "firstName": "Илья",
+    "lastName": "Кобалия",
+    "vip": false
+  }
+]
